@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# personal
+output_data/
+starter_code/
+
+# Adding config.py file.
+api_keys.py
