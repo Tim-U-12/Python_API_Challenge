@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 # personal
-output_data/
 starter_code/
 
 # Adding config.py file.
